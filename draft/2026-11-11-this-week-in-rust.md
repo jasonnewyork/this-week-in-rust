@@ -51,6 +51,8 @@ See here for details: https://github.com/rust-lang/this-week-in-rust/issues/8575
 ### Observations/Thoughts
 
 ### Rust Walkthroughs
+* [Writing a cycle-accurate 6502 emulator in Rust: Build 1, Hello, world](https://www.silicon-arcade.com/read/build-01/)
+
 
 ### Research
 
